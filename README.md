@@ -5,16 +5,16 @@
 ## Contenu du répertoire
 L'objectif de ce tutoriel est de réaliser l'optimisation topologique d'un transformateur, à l'aide de [NGSolve](https://ngsolve.org/), logiciel open-source fonctionnant sous [Python](https://www.python.org/). Ce répertoire contient plusieurs fichiers, dont certains [notebooks Jupyter](https://jupyter.org/) exécutables. Ces fichiers sont organisés pour être consultés dans l'ordre suivant :
 
-- README (ce fichier)
-- 1-Guide Jupyter.ipynb : notebook sur les bases d'utilisation de Jupyter
-- Presentation_tutoriel_optimisation_topologique.pdf : présentation générale de l'activité
-- Tutorial_GDR_Seeds - Sujet.pdf : énoncé qui accompagne l'activité
-- 2-BaseNgSolve.ipynb : notebook d'illustration de la syntaxe de NGSolve
-- 3-Optimisation topologique d'un transformateur.ipynb : notebook associé à l'activité de ce tutoriel
+- `README` (ce fichier)
+- `1-Guide Jupyter.ipynb` : notebook sur les bases d'utilisation de Jupyter
+- `Presentation_tutoriel_optimisation_topologique.pdf` : présentation générale de l'activité
+- `Tutorial_GDR_Seeds - Sujet.pdf` : énoncé qui accompagne l'activité
+- `2-BaseNgSolve.ipynb` : notebook d'illustration de la syntaxe de NGSolve
+- `3-Optimisation topologique d'un transformateur.ipynb` : notebook associé à l'activité de ce tutoriel
 
 Il contient également des fichiers annexes :
-- LICENCE : fichier de Licence GNU General Public License
-- Dockerfile : fichier de configuration de la machine virtuelle [MyBinder](https://mybinder.org/)
+- `LICENCE` : fichier de Licence GNU General Public License
+- `Dockerfile` : fichier de configuration de la machine virtuelle [MyBinder](https://mybinder.org/)
 
 ## Lancement
 
