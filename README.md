@@ -2,6 +2,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
+
 ## Contenu du répertoire
 L'objectif de ce tutoriel est de réaliser l'optimisation topologique d'un transformateur, à l'aide de [NGSolve](https://ngsolve.org/), logiciel open-source fonctionnant sous [Python](https://www.python.org/). Ce répertoire contient plusieurs fichiers, dont certains [notebooks Jupyter](https://jupyter.org/) exécutables. Ces fichiers sont organisés pour être consultés dans l'ordre suivant :
 
@@ -18,7 +20,7 @@ Il contient également des fichiers annexes :
 
 ## Lancement
 
-1. Cliquer sur [LIEN BINDER], et attendre le chargement de la machine virtuelle. *Attention*, cette dernière se déconnecte après 10 minutes d'inactivité, et votre travail ne sera pas sauvegardé!
+1. Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/), et attendre le chargement de la machine virtuelle. *Attention*, cette dernière se déconnecte après 10 minutes d'inactivité, et votre travail ne sera pas sauvegardé!
 2. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 3. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
 
