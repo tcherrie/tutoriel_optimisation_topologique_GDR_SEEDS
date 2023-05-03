@@ -1,6 +1,6 @@
-# Tutoriel Optimisation Topologique - GDR SEED - 10/05/2023
+# Tutoriel Optimisation Topologique - GDR SEEDS - 10/05/2023
 
-[![GitHub license](https://img.shields.io/github/license/tcherrie/tutorial_optimisation_topologique_GDR_SEED)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEED)
+[![GitHub license](https://img.shields.io/github/license/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)
 
 ## Contenu du répertoire
 L'objectif de ce tutoriel est de réaliser l'optimisation topologique d'un transformateur, à l'aide de [NGSolve](https://ngsolve.org/), logiciel open-source fonctionnant sous [Python](https://www.python.org/). Ce répertoire contient plusieurs fichiers, dont certains [notebooks Jupyter](https://jupyter.org/) exécutables. Ces fichiers sont organisés pour être consultés dans l'ordre suivant :
