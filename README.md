@@ -18,11 +18,31 @@ Il contient également des fichiers annexes :
 - `LICENCE` : fichier de Licence GNU General Public License
 - `Dockerfile` : fichier de configuration de la machine virtuelle [MyBinder](https://mybinder.org/)
 
-## Lancement
+## Lancement sur machine distante *sans installation*
 
 1. Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/), et attendre le chargement de la machine virtuelle. *Attention*, cette dernière se déconnecte après 10 minutes d'inactivité, et votre travail ne sera pas sauvegardé!
 2. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 3. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
+
+**Important** : le lancement de la machine distante repose sur le service gratuit et collaboratif [MyBinder](). Il repose donc sur des *ressources limitées*, dont le plus gros calculateur a récemment été [débranché](https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f) fin avril (pas de chance), ce qui peut rendre la procédure précédente inutilisable.
+
+## Lancement en local, *avec installation* (testée sur Windows 10)
+
+1. Télécharger et décompresser le contenu de ce [répertoire github](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS) **sur votre bureau**. Pour cela cliquer sur "Code", puis "Download ZIP".
+2. Télécharger et installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html) avec les options par défaut correspondant à votre système
+3. Ouvrir une console Anaconda Prompt (sur Windows, taper dans la barre de recherche en bas à gauche "Anaconda prompt" ; sur Linux et Mac on utilisera directement le terminal)
+
+Désormais, on écrira la suite d'instructions suivante sur la console (appuyer sur Entrée après avoir écrit l'instruction pour l'exécuter): 
+
+4. Créer un nouvel environnement "tutoriel_optim_topo" réservé à l'activité : `conda create -n tutoriel_optim_topo python=3`
+5. Activer l'environnement : `conda activate tutoriel_optim_topo`
+6. Installer des packages nécessaires (500Mb) : `conda install jupyter numpy matplotlib` (appuyer sur y + entrée pour confirmer l'installation)
+7. Installer NGSolve (300Mb) : `pip install ngsolve`
+8. Installer des extensions de visualisation sur les notebooks : `jupyter nbextension install webgui_jupyter_widgets`
+9. Lancer Jupyter : `jupyter notebook`
+10. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutorial_optimisation_topologique_GDR_SEEDS-main"
+
+Vous êtes arrivé dans le dossier du tutoriel, et vous pouvez démarrer le notebook de votre choix en cliquant dessus.
 
 ## License
 
