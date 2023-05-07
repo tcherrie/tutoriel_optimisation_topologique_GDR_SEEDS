@@ -27,7 +27,7 @@ Il contient également des fichiers annexes :
 **Important** : le lancement de la machine distante repose sur le service gratuit et collaboratif [MyBinder](). Il repose donc sur des *ressources limitées*, dont le plus gros calculateur a récemment été [débranché](https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f) fin avril (pas de chance), ce qui peut rendre la procédure précédente inutilisable.
 
 ## Lancement sur machine distante (uniquement disponible le jour du tutoriel)
-1. Se rendre sur le serveur jupyter [lien](https://falbala.centralesupelec.fr). 
+1. Se rendre sur le [serveur jupyter](https://falbala.centralesupelec.fr). 
 2. Se connecter avec les codes qui vous ont été donnés en début de séance.
 3. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 4. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
