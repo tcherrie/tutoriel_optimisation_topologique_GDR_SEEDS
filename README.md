@@ -44,9 +44,12 @@ Désormais, on écrira la suite d'instructions suivante sur la console (vous pou
 5. Activer l'environnement : `conda activate tutoriel_optim_topo`
 6. Installer des packages nécessaires (500Mb) : `conda install jupyter numpy matplotlib` (appuyer sur y + entrée pour confirmer l'installation). Si un blocage apparait, fermer la console et recommencer les étapes 3, 5 et 6. Les packages déjà téléchargés ne seront pas retéléchargés, ce qui fluidifiera le processus.
 7. Installer NGSolve (300Mb) : `pip install ngsolve`
-8. Installer des extensions de visualisation sur les notebooks : `jupyter nbextension install webgui_jupyter_widgets`
-9. Lancer Jupyter : `jupyter notebook`
-10. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutorial_optimisation_topologique_GDR_SEEDS-main"
+8. Installer des extensions de visualisation sur les notebooks :
+ - `pip install --upgrade webgui_jupyter_widgets`
+ - `jupyter nbextension install --user --py webgui_jupyter_widgets`
+ - `jupyter nbextension enable --user --py webgui_jupyter_widgets`
+10. Lancer Jupyter : `jupyter notebook`
+11. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutorial_optimisation_topologique_GDR_SEEDS-main"
 
 Vous êtes arrivé dans le dossier du tutoriel, et vous pouvez démarrer le notebook de votre choix en cliquant dessus.
 
