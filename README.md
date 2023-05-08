@@ -7,7 +7,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
 
-## Contenu du répertoire
+## 1) Contenu du répertoire
 L'objectif de ce tutoriel est de réaliser l'optimisation topologique d'un transformateur, à l'aide de [NGSolve](https://ngsolve.org/), logiciel open-source fonctionnant sous [Python](https://www.python.org/). Ce répertoire contient plusieurs fichiers, dont certains [notebooks Jupyter](https://jupyter.org/) exécutables. Ces fichiers sont organisés pour être consultés dans l'ordre suivant :
 
 - `README` (ce fichier)
@@ -21,7 +21,7 @@ Il contient également des fichiers annexes :
 - `LICENCE` : fichier de Licence GNU General Public License
 - `Dockerfile` : fichier de configuration de la machine virtuelle [MyBinder](https://mybinder.org/)
 
-## Lancement sur machine distante *sans installation*
+## 2) Lancement sur machine distante *sans installation*
 
 1. Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/), et attendre le chargement de la machine virtuelle. *Attention*, cette dernière se déconnecte après 10 minutes d'inactivité, et votre travail ne sera pas sauvegardé!
 2. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
@@ -29,13 +29,13 @@ Il contient également des fichiers annexes :
 
 **Important** : le lancement de la machine distante repose sur le service gratuit et collaboratif [MyBinder](https://mybinder.org/). Il repose donc sur des *ressources limitées*, dont le plus gros calculateur a récemment été [débranché](https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f) fin avril (pas de chance), ce qui peut rendre la procédure précédente inutilisable.
 
-## Lancement sur machine distante (uniquement disponible le jour du tutoriel)
+## 3) Lancement sur machine distante (uniquement disponible le jour du tutoriel)
 1. Se rendre sur le [serveur jupyter](https://connectme.geeps.centralesupelec.fr:555). (et accepter avec votre navigateur que le lien ne soit pas un https)
 2. Se connecter avec les codes qui vous ont été donnés en début de séance.
 3. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 4. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
 
-## Lancement en local, *avec installation* (testée sur Windows 10)
+## 4) Lancement en local, *avec installation* (testée sur Windows 10)
 
 1. Télécharger et décompresser le contenu de ce [répertoire github](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS) **sur votre bureau**. Pour cela cliquer sur "Code", puis "Download ZIP".
 2. Télécharger et installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html) avec les options par défaut correspondant à votre système
@@ -59,7 +59,7 @@ Désormais, on écrira la suite d'instructions suivante sur la console (vous pou
 
 Vous êtes arrivé dans le dossier du tutoriel, et vous pouvez démarrer le notebook de votre choix en cliquant dessus.
 
-## License
+## 5) License
 
 Copyright (C) 2023 Théodore CHERRIERE (theodore.cherriere@ens-paris-saclay.fr), Thomas GAUTHEY (thomas.gauthey@centralesupelec.fr)
 
