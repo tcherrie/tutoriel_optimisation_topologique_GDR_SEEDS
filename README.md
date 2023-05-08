@@ -4,7 +4,6 @@
 [![DOI](https://zenodo.org/badge/631012231.svg)](https://zenodo.org/badge/latestdoi/631012231)
 
 
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
 
 ## 1) Contenu du répertoire
@@ -12,14 +11,20 @@ L'objectif de ce tutoriel est de réaliser l'optimisation topologique d'un trans
 
 - `README` (ce fichier)
 - `1-Guide Jupyter.ipynb` : notebook sur les bases d'utilisation de Jupyter
-- `Presentation_tutoriel_optimisation_topologique.pdf` : présentation générale de l'activité
-- `Tutorial_GDR_Seeds - Sujet.pdf` : énoncé qui accompagne l'activité
 - `2-BaseNgSolve.ipynb` : notebook d'illustration de la syntaxe de NGSolve
 - `3-Optimisation topologique d'un transformateur.ipynb` : notebook associé à l'activité de ce tutoriel
+- `4-Tutoriel (sujet).pdf` : énoncé comportant des questions associées à l'activité
 
-Il contient également des fichiers annexes :
+Il contient également des éléments de correction et d'explication :
+
+- `5-Tutoriel (corrigé).pdf` : énoncé comportant des éléments de réponse aux questions théoriques
+- `Presentation_tutoriel_optimisation_topologique.pdf` : présentation générale de l'activité
+- `Optimisation topologique d'un transformateur-corrige.ipynb` : notebook de l'activité complet et fonctionnel
+
+Enfin, il contient des fichiers annexes :
 - `LICENCE` : fichier de Licence GNU General Public License
 - `Dockerfile` : fichier de configuration de la machine virtuelle [MyBinder](https://mybinder.org/)
+- `CITATION.cff` : fichier comportant les informations de citation
 
 ## 2) Lancement sur machine distante *sans installation*
 
