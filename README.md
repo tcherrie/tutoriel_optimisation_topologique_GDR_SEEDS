@@ -24,7 +24,7 @@ Il contient également des fichiers annexes :
 2. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 3. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
 
-**Important** : le lancement de la machine distante repose sur le service gratuit et collaboratif [MyBinder](). Il repose donc sur des *ressources limitées*, dont le plus gros calculateur a récemment été [débranché](https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f) fin avril (pas de chance), ce qui peut rendre la procédure précédente inutilisable.
+**Important** : le lancement de la machine distante repose sur le service gratuit et collaboratif [MyBinder](https://mybinder.org/). Il repose donc sur des *ressources limitées*, dont le plus gros calculateur a récemment été [débranché](https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f) fin avril (pas de chance), ce qui peut rendre la procédure précédente inutilisable.
 
 ## Lancement sur machine distante (uniquement disponible le jour du tutoriel)
 1. Se rendre sur le [serveur jupyter](https://connectme.geeps.centralesupelec.fr:555). (et accepter avec votre navigateur que le lien ne soit pas un https)
@@ -38,7 +38,7 @@ Il contient également des fichiers annexes :
 2. Télécharger et installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html) avec les options par défaut correspondant à votre système
 3. Ouvrir une console Anaconda Prompt (sur Windows, taper dans la barre de recherche en bas à gauche "Anaconda prompt" ; sur Linux et Mac on utilisera directement le terminal)
 
-Désormais, on écrira la suite d'instructions suivante sur la console (vous pouvez copier les instructions et les coller dans la console par un clic droit ; appuyer sur Entrée après avoir écrit l'instruction pour l'exécuter): 
+Désormais, on écrira la suite d'instructions suivante sur la console (vous pouvez copier les instructions et les coller dans la console par un clic droit ; appuyer sur Entrée après avoir écrit l'instruction pour l'exécuter ; appuyer sur "y" pour confirmer lorsque cela vous sera demandé) : 
 
 4. Créer un nouvel environnement "tutoriel_optim_topo" réservé à l'activité : `conda create -n tutoriel_optim_topo python=3`
 5. Activer l'environnement : `conda activate tutoriel_optim_topo`
