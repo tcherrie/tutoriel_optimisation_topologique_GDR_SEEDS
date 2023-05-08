@@ -42,7 +42,7 @@ Désormais, on écrira la suite d'instructions suivante sur la console (vous pou
 
 4. Créer un nouvel environnement "tutoriel_optim_topo" réservé à l'activité : `conda create -n tutoriel_optim_topo python=3`
 5. Activer l'environnement : `conda activate tutoriel_optim_topo`
-6. Installer des packages nécessaires (500Mb) : `conda install jupyter numpy matplotlib` (appuyer sur y + entrée pour confirmer l'installation)
+6. Installer des packages nécessaires (500Mb) : `conda install jupyter numpy matplotlib` (appuyer sur y + entrée pour confirmer l'installation). Si un blocage apparait, fermer la console et recommencer à l'étape 3. Les packages déjà téléchargés ne seront pas retéléchargés, ce qui fluidifiera le processus.
 7. Installer NGSolve (300Mb) : `pip install ngsolve`
 8. Installer des extensions de visualisation sur les notebooks : `jupyter nbextension install webgui_jupyter_widgets`
 9. Lancer Jupyter : `jupyter notebook`
