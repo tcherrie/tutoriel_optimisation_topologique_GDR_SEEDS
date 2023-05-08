@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software and find it helpful, please cite it as below :"
+authors:
+- family-names: "Cherrière"
+  given-names: "Théodore"
+  orcid: "https://orcid.org/0000-0001-5421-4061"
+- family-names: "Gauthey"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0002-0957-0953"
+title: "Tutoriel Optimisation Topologique, GDR SEEDS, 10/05/2023"
+version: 1.0.0
+doi: 10.5281/zenodo.7907449 
+date-released: 2023-05-08
+url: "https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS"
