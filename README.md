@@ -1,6 +1,6 @@
 # Tutoriel Optimisation Topologique - GDR SEEDS - 10/05/2023
 
-[![GitHub license](https://img.shields.io/github/license/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)
+[![GitHub license](https://img.shields.io/github/license/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS) [![GitHub release](https://img.shields.io/github/release/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS.svg)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/releases/) [![GitHub stars](https://img.shields.io/github/stars/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/stargazers) [![DOI]()]() 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
 
