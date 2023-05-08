@@ -1,8 +1,8 @@
 # Tutoriel Optimisation Topologique - GDR SEEDS - 10/05/2023
 
-[![GitHub license](https://img.shields.io/github/license/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS) [![GitHub release](https://img.shields.io/github/release/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS.svg)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/releases/) [![GitHub stars](https://img.shields.io/github/stars/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/stargazers) [![DOI]()]() 
+[![GitHub license](https://img.shields.io/github/license/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS) [![GitHub release](https://img.shields.io/github/release/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS.svg)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/releases/) [![GitHub stars](https://img.shields.io/github/stars/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/stargazers) [![DOI]()]() 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
 
 ## Contenu du répertoire
 L'objectif de ce tutoriel est de réaliser l'optimisation topologique d'un transformateur, à l'aide de [NGSolve](https://ngsolve.org/), logiciel open-source fonctionnant sous [Python](https://www.python.org/). Ce répertoire contient plusieurs fichiers, dont certains [notebooks Jupyter](https://jupyter.org/) exécutables. Ces fichiers sont organisés pour être consultés dans l'ordre suivant :
@@ -20,7 +20,7 @@ Il contient également des fichiers annexes :
 
 ## Lancement sur machine distante *sans installation*
 
-1. Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/), et attendre le chargement de la machine virtuelle. *Attention*, cette dernière se déconnecte après 10 minutes d'inactivité, et votre travail ne sera pas sauvegardé!
+1. Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/), et attendre le chargement de la machine virtuelle. *Attention*, cette dernière se déconnecte après 10 minutes d'inactivité, et votre travail ne sera pas sauvegardé!
 2. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 3. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
 
@@ -34,7 +34,7 @@ Il contient également des fichiers annexes :
 
 ## Lancement en local, *avec installation* (testée sur Windows 10)
 
-1. Télécharger et décompresser le contenu de ce [répertoire github](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS) **sur votre bureau**. Pour cela cliquer sur "Code", puis "Download ZIP".
+1. Télécharger et décompresser le contenu de ce [répertoire github](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS) **sur votre bureau**. Pour cela cliquer sur "Code", puis "Download ZIP".
 2. Télécharger et installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html) avec les options par défaut correspondant à votre système
 3. Ouvrir une console Anaconda Prompt (sur Windows, taper dans la barre de recherche en bas à gauche "Anaconda prompt" ; sur Linux et Mac on utilisera directement le terminal)
 
@@ -52,7 +52,7 @@ Désormais, on écrira la suite d'instructions suivante sur la console (vous pou
 **Si une erreur apparaît à l'étape 8**, essayer `jupyter nbextension install webgui_jupyter_widgets` ; sinon passer directement à l'étape 9.
 
 9. Lancer Jupyter : `jupyter notebook`
-10. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutorial_optimisation_topologique_GDR_SEEDS-main"
+10. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutoriel_optimisation_topologique_GDR_SEEDS-main"
 
 Vous êtes arrivé dans le dossier du tutoriel, et vous pouvez démarrer le notebook de votre choix en cliquant dessus.
 
