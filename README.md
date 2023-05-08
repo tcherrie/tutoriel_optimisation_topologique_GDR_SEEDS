@@ -1,6 +1,9 @@
 # Tutoriel Optimisation Topologique - GDR SEEDS - 10/05/2023
 
-[![GitHub license](https://img.shields.io/github/license/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS) [![GitHub release](https://img.shields.io/github/release/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS.svg)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/releases/) [![GitHub stars](https://img.shields.io/github/stars/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/stargazers) [![DOI]()]() 
+[![GitHub license](https://img.shields.io/github/license/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS) [![GitHub release](https://img.shields.io/github/release/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS.svg)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/releases/) [![GitHub stars](https://img.shields.io/github/stars/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/stargazers) 
+[![DOI](https://zenodo.org/badge/631012231.svg)](https://zenodo.org/badge/latestdoi/631012231)
+
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS/main?urlpath=/tree/)
 
