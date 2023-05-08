@@ -38,7 +38,7 @@ Il contient également des fichiers annexes :
 2. Télécharger et installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html) avec les options par défaut correspondant à votre système
 3. Ouvrir une console Anaconda Prompt (sur Windows, taper dans la barre de recherche en bas à gauche "Anaconda prompt" ; sur Linux et Mac on utilisera directement le terminal)
 
-Désormais, on écrira la suite d'instructions suivante sur la console (appuyer sur Entrée après avoir écrit l'instruction pour l'exécuter): 
+Désormais, on écrira la suite d'instructions suivante sur la console (vous pouvez copier les instructions et les coller dans la console par un clic droit ; appuyer sur Entrée après avoir écrit l'instruction pour l'exécuter): 
 
 4. Créer un nouvel environnement "tutoriel_optim_topo" réservé à l'activité : `conda create -n tutoriel_optim_topo python=3`
 5. Activer l'environnement : `conda activate tutoriel_optim_topo`
