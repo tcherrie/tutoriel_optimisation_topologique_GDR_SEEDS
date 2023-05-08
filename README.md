@@ -32,7 +32,7 @@ Il contient également des fichiers annexes :
 3. Ouvrir les notebooks Jupyter présents sur l'arborescence directement via votre navigateur internet.
 4. Vous pouvez maintenant interagir avec les notebooks et démarrer l'activité.
 
-## Lancement en local, *avec installation* (testée sur Windows 10 - durée approximative 20-30 minutes)
+## Lancement en local, *avec installation* (testée sur Windows 10)
 
 1. Télécharger et décompresser le contenu de ce [répertoire github](https://github.com/tcherrie/tutorial_optimisation_topologique_GDR_SEEDS) **sur votre bureau**. Pour cela cliquer sur "Code", puis "Download ZIP".
 2. Télécharger et installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html) avec les options par défaut correspondant à votre système
