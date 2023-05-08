@@ -48,8 +48,10 @@ Désormais, on écrira la suite d'instructions suivante sur la console (vous pou
  - `pip install --upgrade webgui_jupyter_widgets`
  - `jupyter nbextension install --user --py webgui_jupyter_widgets`
  - `jupyter nbextension enable --user --py webgui_jupyter_widgets`
-10. Lancer Jupyter : `jupyter notebook`
-11. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutorial_optimisation_topologique_GDR_SEEDS-main"
+
+Si une erreur apparaît à l'étape 8, essayer `jupyter nbextension install webgui_jupyter_widgets` ; sinon passer directement à l'étape 9.
+9. Lancer Jupyter : `jupyter notebook`
+10. Dans l'explorateur de fichiers qui s'ouvre, sélectionner "Desktop", puis "tutorial_optimisation_topologique_GDR_SEEDS-main"
 
 Vous êtes arrivé dans le dossier du tutoriel, et vous pouvez démarrer le notebook de votre choix en cliquant dessus.
 
